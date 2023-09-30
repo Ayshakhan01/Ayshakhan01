@@ -10,4 +10,4 @@ Passionate about **Cybersecurity**, **Networking**, and **Cryptography** 💻�
 
 Let's secure the digital world together! 🌐✨
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/yourgithubusername)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/Ayshakhan01)
