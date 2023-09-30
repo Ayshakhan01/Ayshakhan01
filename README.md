@@ -22,7 +22,7 @@ I'm actively seeking opportunities to collaborate on security projects that alig
 
 Feel free to explore my GitHub repositories to see some of my work and projects. If you find something interesting or would like to collaborate on any project, reach out to me!
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/yourgithubusername)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/Ayshakhan01)
 
 Thank you for stopping by and considering a collaboration with me. Let's make the digital world more secure and exciting together!
 
