@@ -1,10 +1,10 @@
 # 👋 Aysha Khan
 
-Passionate about **Cybersecurity**, **Networking**, and **Cryptography** 💻🔐
+Passionate about **Cybersecurity**, **Networking**, and **Cryptography** ,**Fullstock Development**💻🔐
 
-📚 Currently Learning: Node.js, Networking
+📚 Currently Learning: JavaScript ,Node.js
 
-🤝 Looking to Collaborate on Security Projects to Learn and Grow
+🤝 Looking to Collaborate on Security Projects and Fullstock Development Projects to Learn and Grow
 
 📧 Contact Me: [t.ayshakhanam@gmail.com](mailto:t.ayshakhanam@gmail.com)
 
