@@ -1,8 +1,8 @@
 # 👋 Aysha Khan
 
-Passionate about **Cybersecurity**, **Networking**, and **Cryptography** ,**Fullstock Development**💻🔐
+Passionate about **Cybersecurity**, **Networking**, and **Cryptography** ,**Fullstock Development** , **DSA**💻🔐
 
-📚 Currently Learning: JavaScript ,Node.js
+📚 Currently Learning: JavaScript ,Node.js,solving DSA problems
 
 🤝 Looking to Collaborate on Security Projects and Fullstock Development Projects to Learn and Grow
 
