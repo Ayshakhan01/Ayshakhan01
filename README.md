@@ -61,9 +61,9 @@ Hi there! I'm Aysha Khan, currently enrolled in a 6-year integrated B.Tech progr
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 📫 **Connect with Me**
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- [Twitter](https://twitter.com/yourtwitter)
-- Email: youremail@example.com
+- [LinkedIn](https://www.linkedin.com/in/aysha-khan-523264277/)
+- [Twitter](https://x.com/Aysha_khan_01)
+- Email: t.ayshakhanam@gmail.com
 
 🎮 **Hobbies & Interests**
 - 💻 Coding and building projects
