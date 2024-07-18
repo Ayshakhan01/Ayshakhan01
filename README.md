@@ -54,13 +54,8 @@ Hi there! I'm Aysha Khan, currently enrolled in a 6-year integrated B.Tech progr
 ### Cybersecurity Skills
 ![Network Security](https://img.shields.io/badge/-Network%20Security-333333?style=flat&logo=wireshark)
 ![Cryptography](https://img.shields.io/badge/-Cryptography-333333?style=flat&logo=lock)
-![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-333333?style=flat&logo=hackaday)
-![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-333333?style=flat&logo=penetration-testing)
-![Incident Response](https://img.shields.io/badge/-Incident%20Response-333333?style=flat&logo=incident-response)
-![Forensics](https://img.shields.io/badge/-Forensics-333333?style=flat&logo=forensic-science)
-![SIEM](https://img.shields.io/badge/-SIEM-333333?style=flat&logo=security)
 ![Firewalls](https://img.shields.io/badge/-Firewalls-333333?style=flat&logo=firewall)
-![Vulnerability Management](https://img.shields.io/badge/-Vulnerability%20Management-333333?style=flat&logo=vulnerability-management)
+
 
 ### Operating Systems
 ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=apple)
