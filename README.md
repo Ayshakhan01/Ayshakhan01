@@ -78,8 +78,6 @@ Hi there! I'm Aysha Khan, currently enrolled in a 6-year integrated B.Tech progr
 📝 **License**
 This profile README is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Releases
-[List any releases here]
 
 
 <!---
