@@ -54,16 +54,23 @@ Hi there! I'm Aysha Khan, currently enrolled in a 6-year integrated B.Tech progr
 ### Cybersecurity Skills
 ![Network Security](https://img.shields.io/badge/-Network%20Security-333333?style=flat&logo=wireshark)
 ![Cryptography](https://img.shields.io/badge/-Cryptography-333333?style=flat&logo=lock)
+![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-333333?style=flat&logo=hackaday)
+![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-333333?style=flat&logo=penetration-testing)
+![Incident Response](https://img.shields.io/badge/-Incident%20Response-333333?style=flat&logo=incident-response)
+![Forensics](https://img.shields.io/badge/-Forensics-333333?style=flat&logo=forensic-science)
+![SIEM](https://img.shields.io/badge/-SIEM-333333?style=flat&logo=security)
 ![Firewalls](https://img.shields.io/badge/-Firewalls-333333?style=flat&logo=firewall)
+![Vulnerability Management](https://img.shields.io/badge/-Vulnerability%20Management-333333?style=flat&logo=vulnerability-management)
 
 ### Operating Systems
+![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=apple)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 📫 **Connect with Me**
-- [LinkedIn](https://www.linkedin.com/in/aysha-khan-523264277/)
-- [Twitter](https://x.com/Aysha_khan_01)
-- Email: t.ayshakhanam@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin/)
+[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/yourtwitter)
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:youremail@example.com)
 
 🎮 **Hobbies & Interests**
 - 💻 Coding and building projects
@@ -75,7 +82,8 @@ Hi there! I'm Aysha Khan, currently enrolled in a 6-year integrated B.Tech progr
 📝 **License**
 This profile README is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-
+## Releases
+[List any releases here]
 
 
 <!---
